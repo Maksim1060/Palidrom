@@ -8,7 +8,7 @@ public class Main {
         if (str.toLowerCase().equals(reverseStr.toLowerCase())) {
             System.out.println(str+"  Слово палидром");
         }else {
-
+            System.out.println(str+" Слово не палидром");
         }
     }
 }
