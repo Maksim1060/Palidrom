@@ -6,7 +6,7 @@ public class Main {
             reverseStr = reverseStr + str.charAt(i);
         }
         if (str.toLowerCase().equals(reverseStr.toLowerCase())) {
-            System.out.println(str+" Слово палидром");
+            System.out.println(str+"  Слово палидром");
         }else {
 
         }
